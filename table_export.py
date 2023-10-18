@@ -146,8 +146,6 @@ for index, addon_id in enumerate(addons, 1):
 df = pd.DataFrame.from_records(list_data)
 df = df.astype(
     {
-        "number_users": "Int64",
-        "number_reviews": "Int64",
         "average_rating": "Float64",
         "repository_stars_count": "Int64",
     }
