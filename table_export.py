@@ -152,7 +152,6 @@ df = df.sort_values(by=["addon_name"])
 df = df.astype(
     {
         "average_rating": "Float64",
-        "repository_stars_count": "Int64",
     }
 )
 df.to_csv("export.csv", index=False)

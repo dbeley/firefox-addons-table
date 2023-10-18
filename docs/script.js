@@ -26,6 +26,7 @@ $(document).ready(function() {
     		"columnDefs": [
       	  	  { type: numbersType, targets: [10] },
               { targets: [11], render: DataTable.render.datetime('X', 'YYYY-MM-DD', 'en') },
+              { targets: [1, 2, 10], render: DataTable.render.number() },
       	      { width: "10%", targets: [0, 1] },
     		],
     		"responsive": true

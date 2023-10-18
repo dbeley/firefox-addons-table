@@ -11,19 +11,15 @@ def read_template(file: str) -> Template:
 
 
 df = pd.read_csv("export.csv")
-df = df.astype(
-    {
-        "number_users": "Int64",
-        "number_reviews": "Int64",
-        "average_rating": "Float64",
-        "repository_stars_count": "Int64",
-    }
-)
 df = df.fillna(
     {
-        "repo_link": "",
         "addon_icon": "",
+        "average_rating": "",
+        "number_reviews": "",
+        "number_users": "",
+        "repo_link": "",
         "repository_last_update": "",
+        "repository_stars_count": "",
     }
 )
 
