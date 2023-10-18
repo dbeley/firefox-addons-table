@@ -13,6 +13,8 @@ def read_template(file: str) -> Template:
 df = pd.read_csv("export.csv")
 df = df.astype(
     {
+        "number_users": "Int64",
+        "number_reviews": "Int64",
         "average_rating": "Float64",
         "repository_stars_count": "Int64",
     }

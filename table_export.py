@@ -97,11 +97,15 @@ for index, addon_id in enumerate(addons, 1):
         .find("dd")
         .text.replace(",", "")
     )
-    average_rating = (
+    average_rating_element = (
         soup.select("div.AddonMeta-overallRating dl")[2]
         .find("dd")
         .text.replace(",", "")
-        .split(" ")[1]
+    )
+    average_rating = (
+        average_rating_element.split(" ")[1]
+        if not average_rating_element.startswith("There are no ratings")
+        else None
     )
 
     addon_summary = soup.select("p.Addon-summary")[0].text
@@ -144,11 +148,11 @@ for index, addon_id in enumerate(addons, 1):
     )
 
 df = pd.DataFrame.from_records(list_data)
+df = df.sort_values(by=["addon_name"])
 df = df.astype(
     {
         "average_rating": "Float64",
         "repository_stars_count": "Int64",
     }
 )
-df = df.sort_values(by=["addon_name"])
 df.to_csv("export.csv", index=False)
