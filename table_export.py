@@ -70,6 +70,8 @@ with open("firefox-addons.txt", "r") as f:
 
 list_data = []
 for index, addon_id in enumerate(addons, 1):
+    if index >= 40:
+        break
     url = f"https://addons.mozilla.org/en-US/firefox/addon/{addon_id}/"
     soup = BeautifulSoup(requests.get(url).content, "lxml")
     if soup.select("div.Card-header-text") and soup.select("div.Card-header-text")[
@@ -126,6 +128,10 @@ for index, addon_id in enumerate(addons, 1):
         repo_domain = repo_link.split("://")[1].split("/")[0]
         repo_stats = _get_repository_stats(repo_link, repo_domain)
 
+    addon_categories = ""
+    if categories_element := soup.select("ul.AddonMoreInfo-related-categories-list li"):
+        addon_categories = ", ".join([element.text for element in categories_element])
+
     list_data.append(
         {
             "url": url,
@@ -143,6 +149,7 @@ for index, addon_id in enumerate(addons, 1):
             "addon_size": addon_size,
             "addon_last_update": addon_last_update,
             "addon_license": addon_license,
+            "addon_categories": addon_categories,
             **repo_stats,
         }
     )
