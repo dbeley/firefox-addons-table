@@ -83,7 +83,7 @@ for index, addon_id in enumerate(addons, 1):
     addon_name = soup.select("h1.AddonTitle")[0].text
     print(addon_name)
     addon_icon = (
-        soup.select("img.Addon-icon-image")[0]["src"]
+        soup.select("img.Addon-icon-image")[0]["src"].split(",")[0]
         if soup.select("img.Addon-icon-image")
         else ""
     )
