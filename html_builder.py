@@ -20,6 +20,7 @@ df = df.fillna(
         "repo_link": "",
         "repository_last_update": "",
         "repository_stars_count": "",
+        "addon_categories": "",
     }
 )
 
