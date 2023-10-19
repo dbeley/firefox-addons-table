@@ -38,7 +38,6 @@ header = (
     "<th>License</th>\n"
     "<th>Homepage</th>\n"
     "<th>Repository Stars Count</th>\n"
-    "<th>Repository Last Update</th>\n"
     "</tr>\n"
     "</thead>\n"
 )
@@ -79,8 +78,6 @@ for index, row in df.iterrows():
         f"<td>{repository_link}</td>"
         "\n"
         f"<td>{row['repository_stars_count']}</td>"
-        "\n"
-        f"<td>{row['repository_last_update']}</td>"
         "\n"
         "</tr>\n"
     )
