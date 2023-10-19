@@ -70,8 +70,6 @@ with open("firefox-addons.txt", "r") as f:
 
 list_data = []
 for index, addon_id in enumerate(addons, 1):
-    if index >= 40:
-        break
     url = f"https://addons.mozilla.org/en-US/firefox/addon/{addon_id}/"
     soup = BeautifulSoup(requests.get(url).content, "lxml")
     if soup.select("div.Card-header-text") and soup.select("div.Card-header-text")[
