@@ -88,6 +88,7 @@ foxytab
 fraidycat
 frame-extension
 français-language-pack
+freedom-website-blocker
 furiganaize
 gesturefy
 ghostery
@@ -115,6 +116,7 @@ hover-zoom-plus
 i-auto-fullscreen
 i-dont-care-about-cookies
 image-search-options
+impulse-blocker
 inkah
 ipfs-companion
 ipvfoo-pmarks
@@ -304,6 +306,7 @@ youronlinechoices-plugin
 youtube-addon
 youtube-nonstop
 youtube-recommended-videos
+youtube-screenshot-button
 youtube-shorts-block
 zoom-page-we
 zoom-redirector
