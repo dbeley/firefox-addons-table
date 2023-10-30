@@ -52,6 +52,7 @@ darkcloud
 darkreader
 dearrow
 decentraleyes
+deutsch-de-language-pack
 df-youtube
 dictionaries
 dictionnaire-français1
@@ -117,6 +118,7 @@ i-auto-fullscreen
 i-dont-care-about-cookies
 image-search-options
 impulse-blocker
+indie-wiki-buddy
 inkah
 ipfs-companion
 ipvfoo-pmarks
