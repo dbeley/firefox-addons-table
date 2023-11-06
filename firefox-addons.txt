@@ -69,7 +69,7 @@ ecosia-the-green-search
 edit-with-emacs1
 elasticvue
 enhanced-github
-enhancer-for-youtube
+enhanced-h264ify
 ether-metamask
 export-cookies-txt
 export-tabs-urls-and-titles
@@ -187,6 +187,7 @@ org-capture
 overbitewx
 overview
 passff
+pay-by-privacy
 peertubeify
 persistentpin
 pinboard
@@ -226,6 +227,7 @@ saka-key
 save-page-we
 search-engines-helper
 search_by_image
+shaarli
 side-view
 sidebartabs
 sidebery
@@ -236,6 +238,7 @@ skip-redirect
 smart-referer
 snoozetabs
 solarized-light
+solarized_fox
 sourcegraph-for-firefox
 sponsorblock
 startpage-private-search
