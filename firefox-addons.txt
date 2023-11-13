@@ -24,6 +24,7 @@ bitwarden-password-manager
 blocktube
 boring-rss
 brandon1024-find
+brotab
 browserpass-ce
 bukubrow
 bulgarian-dictionary
@@ -46,6 +47,7 @@ copy-link-text-webextension
 copy-selected-links
 copy-selected-tabs-to-clipboar
 copy-selection-as-markdown
+dark-mode-webextension
 dark-mode-website-switcher
 dark-scroll-for-tweetdeck
 darkcloud
@@ -74,6 +76,7 @@ ether-metamask
 export-cookies-txt
 export-tabs-urls-and-titles
 facebook-container
+fastforwardteam
 fediact
 ff2mpv
 firefox-color
@@ -111,6 +114,7 @@ görans-hemmasnickrade-ordli
 h264ify
 header-editor
 history-cleaner
+hls-stream-detector
 honey
 hoppscotch
 hover-zoom-plus
@@ -123,8 +127,10 @@ inkah
 ipfs-companion
 ipvfoo-pmarks
 istilldontcareaboutcookies
+jabref
 joplin-web-clipper
 js-search-extension
+jump-cutter
 kagi-search-for-firefox
 keepa
 keepass-helper-url-in-title
@@ -231,6 +237,7 @@ shaarli
 side-view
 sidebartabs
 sidebery
+simple-dark-vlasak
 simple-tab-groups
 simplelogin
 single-file
