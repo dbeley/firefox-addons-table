@@ -57,6 +57,7 @@ decentraleyes
 deutsch-de-language-pack
 df-youtube
 dictionaries
+dictionary-german
 dictionnaire-français1
 disable-facebook-news-feed
 disable-javascript
@@ -77,6 +78,7 @@ export-cookies-txt
 export-tabs-urls-and-titles
 facebook-container
 fastforwardteam
+faststream
 fediact
 ff2mpv
 firefox-color
@@ -125,7 +127,7 @@ impulse-blocker
 indie-wiki-buddy
 inkah
 ipfs-companion
-ipvfoo-pmarks
+ipvfoo
 istilldontcareaboutcookies
 jabref
 joplin-web-clipper
@@ -184,7 +186,6 @@ offline-qr-code-generator
 okta-browser-plugin
 old-reddit-redirect
 omnisearch
-omnivore
 one-click-wayback
 onetab
 open-in-browser
@@ -211,7 +212,7 @@ profile-switcher
 promnesia
 pronoundb
 proton-pass
-proton-vpn
+proton-vpn-firefox-extension
 protondb-for-steam
 pushbullet
 pywalfox
