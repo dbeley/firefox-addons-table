@@ -154,6 +154,7 @@ linkhints
 localcdn-fork-of-decentraleyes
 lovely-forks
 mailvelope
+mal-sync
 markdownload
 matte-black-red
 maya-dark
@@ -186,6 +187,7 @@ offline-qr-code-generator
 okta-browser-plugin
 old-reddit-redirect
 omnisearch
+omnivore
 one-click-wayback
 onetab
 open-in-browser
