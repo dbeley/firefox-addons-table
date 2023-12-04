@@ -20,6 +20,7 @@ behind-the-overlay-revival
 belgium-eid
 betterttv
 beyond-20
+bibbot
 bitwarden-password-manager
 blocktube
 boring-rss
@@ -122,6 +123,7 @@ hoppscotch
 hover-zoom-plus
 i-auto-fullscreen
 i-dont-care-about-cookies
+iina-open-in-mpv
 image-search-options
 impulse-blocker
 indie-wiki-buddy
@@ -234,6 +236,7 @@ rsshub-radar
 rust-search-extension
 saka-key
 save-page-we
+scroll_anywhere
 search-engines-helper
 search_by_image
 shaarli
@@ -242,6 +245,7 @@ sidebartabs
 sidebery
 simple-dark-vlasak
 simple-tab-groups
+simple-translate
 simplelogin
 single-file
 skip-redirect
