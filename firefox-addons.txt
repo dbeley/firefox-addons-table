@@ -53,6 +53,7 @@ dark-mode-website-switcher
 dark-scroll-for-tweetdeck
 darkcloud
 darkreader
+dashlane
 dearrow
 decentraleyes
 deutsch-de-language-pack
@@ -125,6 +126,7 @@ i-auto-fullscreen
 i-dont-care-about-cookies
 iina-open-in-mpv
 image-search-options
+immersive-translate
 impulse-blocker
 indie-wiki-buddy
 inkah
