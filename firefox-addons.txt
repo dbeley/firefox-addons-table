@@ -43,6 +43,7 @@ container-proxy
 container-tabs-sidebar
 control-panel-for-twitter
 cookie-autodelete
+cookie-quick-manager
 cookies-txt
 copy-link-text-webextension
 copy-selected-links
@@ -116,6 +117,8 @@ gruvbox-dark-theme
 gsconnect
 görans-hemmasnickrade-ordli
 h264ify
+hackontext
+hacktools
 header-editor
 history-cleaner
 hls-stream-detector
@@ -199,9 +202,11 @@ open-url-in-container
 org-capture
 overbitewx
 overview
+paperpile-addon
 passff
 pay-by-privacy
 peertubeify
+penetration-testing-kit
 persistentpin
 pinboard
 plasma-integration
@@ -232,6 +237,7 @@ reddit_comment_collapser
 redirector
 reduxdevtools
 refined-github-
+refined-saved-replies
 return-youtube-dislikes
 rsf-censorship-detector
 rsshub-radar
@@ -258,7 +264,7 @@ solarized_fox
 sourcegraph-for-firefox
 sponsorblock
 startpage-private-search
-startup-tabs
+startup-bookmarks
 statshunters
 steam-database
 streetpass-for-mastodon
