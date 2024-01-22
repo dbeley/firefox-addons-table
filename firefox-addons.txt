@@ -169,7 +169,9 @@ maya-light
 modheader-firefox
 modrinthify
 momentumdash
+move-unloaded-tabs-for-tst
 multi-account-containers
+multiple-tab-handler
 musescore-downloader
 native-mathml
 new-tab-override
@@ -227,6 +229,7 @@ proton-vpn-firefox-extension
 protondb-for-steam
 pushbullet
 pywalfox
+qr-code-address-bar
 rabattcorner
 raindropio
 re-enable-right-click
@@ -298,6 +301,12 @@ transparent-standalone-image
 tree-style-tab
 tree-style-tab-mouse-wheel
 tridactyl-vim
+tst-active-tab-on-scroll-bar
+tst-bookmarks-subpanel
+tst-fade-old-tabs
+tst-indent-line
+tst-lock-tree-collapsed
+tst-more-tree-commands
 tst-search
 tubearchivist-companion
 ublacklist
