@@ -1,3 +1,7 @@
+hulu-ad-blocker-firefox
+purpleadblock
+to-google-translate
+unwanted-twitch
 10ten-ja-reader
 1password-x-password-manager
 a11ycss
@@ -247,6 +251,7 @@ rsshub-radar
 rust-search-extension
 saka-key
 save-page-we
+screenshot-capture-annotate
 scroll_anywhere
 search-engines-helper
 search_by_image
@@ -331,6 +336,7 @@ w2g
 wallabagger
 wappalyzer
 wayback-machine_new
+web-eid-webextension
 web-scrobbler
 web-search-navigator
 widegithub
