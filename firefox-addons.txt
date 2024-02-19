@@ -15,6 +15,7 @@ augmented-steam
 auto-tab-discard
 automatic-dark
 aw-watcher-web
+batchcamp
 behave
 behind-the-overlay-revival
 belgium-eid
