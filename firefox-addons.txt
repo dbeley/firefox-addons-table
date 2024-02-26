@@ -216,6 +216,7 @@ penetration-testing-kit
 persistentpin
 pinboard
 plasma-integration
+playback-speed
 pocket-select-all
 polish-spellchecker-dictionary
 polkadot-js-extension
