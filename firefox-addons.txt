@@ -33,11 +33,13 @@ bulgarian-dictionary
 buster-captcha-solver
 c-c-search-extension
 canvasblocker
+castkodi
 censor-tracker
 clearurls
 cliget
 close-other-windows
 codecov
+commafeed
 conex
 consent-o-matic
 container-proxy
