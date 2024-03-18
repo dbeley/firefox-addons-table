@@ -1,5 +1,6 @@
 10ten-ja-reader
 1password-x-password-manager
+2fas-two-factor-authentication
 a11ycss
 add-custom-search-engine
 addy_io
@@ -73,6 +74,7 @@ don-t-fuck-with-paste
 dracula-dark-colorscheme
 dualsub
 duckduckgo-for-firefox
+earth-view-from-google
 ebates
 ebates-express-cash-back
 ecosia-the-green-search
@@ -80,6 +82,7 @@ edit-with-emacs1
 elasticvue
 enhanced-github
 enhanced-h264ify
+enhancer-for-youtube
 ether-metamask
 export-cookies-txt
 export-tabs-urls-and-titles
@@ -354,8 +357,10 @@ windscribe
 xbs
 youronlinechoices-plugin
 youtube-addon
+youtube-alternative-switch
 youtube-nonstop
 youtube-recommended-videos
+youtube-redux
 youtube-screenshot-button
 youtube-shorts-block
 zoom-page-we
