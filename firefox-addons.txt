@@ -36,6 +36,7 @@ c-c-search-extension
 canvasblocker
 castkodi
 censor-tracker
+clearcache
 clearurls
 cliget
 close-other-windows
@@ -194,6 +195,7 @@ ninja-cookie
 nitter-redirect
 no-pdf-download
 nord-polar-night-theme
+nord123
 nos2x-fox
 noscript
 notifier-for-github
@@ -205,6 +207,7 @@ okta-browser-plugin
 old-reddit-redirect
 omnisearch
 omnivore
+omori-headspace-by-lemon
 one-click-wayback
 onetab
 open-in-browser
@@ -245,6 +248,7 @@ rabattcorner
 raindropio
 re-enable-right-click
 react-devtools
+read-aloud
 reddit-enhancement-suite
 reddit-moderator-toolbox
 reddit_comment_collapser
@@ -285,6 +289,7 @@ statshunters
 steam-database
 streetpass-for-mastodon
 styl-us
+stylebot-web
 substitoot
 surfingkeys_ff
 switchyomega
@@ -347,14 +352,17 @@ w2g
 wallabagger
 wappalyzer
 wayback-machine_new
+web-developer
 web-eid-webextension
 web-scrobbler
 web-search-navigator
+webhint
 widegithub
 wikipedia-vector-skin
 wikiwand-wikipedia-modernized
 windscribe
 xbs
+yomitan
 youronlinechoices-plugin
 youtube-addon
 youtube-alternative-switch
