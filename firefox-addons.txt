@@ -2,6 +2,7 @@
 1password-x-password-manager
 2fas-two-factor-authentication
 a11ycss
+adblocker-ultimate
 add-custom-search-engine
 addy_io
 adnauseam
@@ -13,6 +14,7 @@ angular-devtools
 annotations-restored
 aria2-integration
 augmented-steam
+auto-sort-bookmarks
 auto-tab-discard
 automatic-dark
 aw-watcher-web
@@ -146,6 +148,7 @@ ipfs-companion
 ipvfoo
 istilldontcareaboutcookies
 jabref
+javascript-restrictor
 joplin-web-clipper
 js-search-extension
 jump-cutter
@@ -223,6 +226,7 @@ peertubeify
 penetration-testing-kit
 persistentpin
 pinboard
+pipewire-screenaudio
 plasma-integration
 playback-speed
 pocket-select-all
