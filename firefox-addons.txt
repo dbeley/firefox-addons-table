@@ -44,6 +44,7 @@ cliget
 close-other-windows
 codecov
 commafeed
+competitive-companion
 conex
 consent-o-matic
 container-proxy
