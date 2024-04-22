@@ -38,6 +38,7 @@ c-c-search-extension
 canvasblocker
 castkodi
 censor-tracker
+chatgptbox
 clearcache
 clearurls
 cliget
