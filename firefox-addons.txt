@@ -75,6 +75,7 @@ disable-facebook-news-feed
 disable-javascript
 disconnect
 display-_anchors
+docsafterdark
 don-t-fuck-with-paste
 dracula-dark-colorscheme
 dualsub
