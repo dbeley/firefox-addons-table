@@ -247,6 +247,7 @@ pronoundb
 proton-pass
 proton-vpn-firefox-extension
 protondb-for-steam
+protoots
 purpleadblock
 pushbullet
 pywalfox
