@@ -2,6 +2,7 @@
 1password-x-password-manager
 2fas-two-factor-authentication
 a11ycss
+adaptive-tab-bar-colour
 adblocker-ultimate
 add-custom-search-engine
 addy_io
@@ -11,6 +12,7 @@ alfred-launcher-integration
 amp2html
 anchors-reveal
 angular-devtools
+animalese-typing
 annotations-restored
 aria2-integration
 augmented-steam
@@ -49,7 +51,9 @@ competitive-companion
 conex
 consent-o-matic
 container-proxy
+container-tab-groups
 container-tabs-sidebar
+containerise
 control-panel-for-twitter
 cookie-autodelete
 cookie-quick-manager
