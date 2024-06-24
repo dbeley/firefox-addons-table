@@ -35,9 +35,11 @@ brotab
 browserpass-ce
 bukubrow
 bulgarian-dictionary
+bulkurlopener
 buster-captcha-solver
 c-c-search-extension
 canvasblocker
+capture-print
 castkodi
 censor-tracker
 chatgptbox
@@ -58,6 +60,7 @@ control-panel-for-twitter
 cookie-autodelete
 cookie-quick-manager
 cookies-txt
+copy-as-org-mode
 copy-link-text-webextension
 copy-selected-links
 copy-selected-tabs-to-clipboar
@@ -72,6 +75,7 @@ dearrow
 decentraleyes
 deutsch-de-language-pack
 df-youtube
+diccionario-de-español-españa
 dictionaries
 dictionary-german
 dictionnaire-français1
@@ -81,6 +85,7 @@ disconnect
 display-_anchors
 docsafterdark
 don-t-fuck-with-paste
+download-with-jdownloader
 dracula-dark-colorscheme
 dualsub
 duckduckgo-for-firefox
@@ -145,6 +150,7 @@ hover-zoom-plus
 hulu-ad-blocker-firefox
 i-auto-fullscreen
 i-dont-care-about-cookies
+i2p-in-private-browsing
 iina-open-in-mpv
 image-search-options
 immersive-translate
@@ -235,10 +241,14 @@ persistentpin
 pinboard
 pipewire-screenaudio
 plasma-integration
+play-to-kodi4
 playback-speed
 pocket-select-all
 polish-spellchecker-dictionary
 polkadot-js-extension
+print-edit-we
+print-friendly-pdf
+print-to-pdf-document
 privacy-badger17
 privacy-pass
 privacy-possum
@@ -261,6 +271,7 @@ raindropio
 re-enable-right-click
 react-devtools
 read-aloud
+recoll-we
 reddit-enhancement-suite
 reddit-moderator-toolbox
 reddit_comment_collapser
@@ -268,6 +279,7 @@ redirector
 reduxdevtools
 refined-github-
 refined-saved-replies
+remove-youtube-s-suggestions
 return-youtube-dislikes
 rsf-censorship-detector
 rsshub-radar
@@ -280,6 +292,7 @@ scroll_anywhere
 search-engines-helper
 search_by_image
 shaarli
+shinigami-eyes
 side-view
 sidebartabs
 sidebery
@@ -351,6 +364,7 @@ undoclosetabbutton
 unpaywall
 unwanted-twitch
 user-agent-string-switcher
+userchrome-toggle
 video-downloadhelper
 videospeed
 view-image
@@ -369,6 +383,7 @@ web-eid-webextension
 web-scrobbler
 web-search-navigator
 webhint
+whowrotethat
 widegithub
 wikipedia-vector-skin
 wikiwand-wikipedia-modernized
