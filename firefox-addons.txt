@@ -8,6 +8,7 @@ add-custom-search-engine
 addy_io
 adnauseam
 adsum-notabs
+alby
 alfred-launcher-integration
 amp2html
 anchors-reveal
@@ -31,6 +32,7 @@ bitwarden-password-manager
 blocktube
 boring-rss
 brandon1024-find
+british-english-dictionary-2
 brotab
 browserpass-ce
 bukubrow
