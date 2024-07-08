@@ -67,6 +67,7 @@ copy-link-text-webextension
 copy-selected-links
 copy-selected-tabs-to-clipboar
 copy-selection-as-markdown
+dark-background-light-text
 dark-mode-webextension
 dark-mode-website-switcher
 dark-scroll-for-tweetdeck
@@ -108,6 +109,7 @@ fastforwardteam
 faststream
 fediact
 ff2mpv
+ficlab
 firefox-color
 firefox-translations
 firemonkey
@@ -197,6 +199,7 @@ modheader-firefox
 modrinthify
 momentumdash
 move-unloaded-tabs-for-tst
+movie-web-extension
 multi-account-containers
 multiple-tab-handler
 musescore-downloader
