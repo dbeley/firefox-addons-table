@@ -21,6 +21,7 @@ auto-sort-bookmarks
 auto-tab-discard
 automatic-dark
 aw-watcher-web
+awesome-rss
 batchcamp
 behave
 behind-the-overlay-revival
@@ -41,6 +42,7 @@ bulkurlopener
 buster-captcha-solver
 c-c-search-extension
 canvasblocker
+capital-one-eno
 capture-print
 castkodi
 censor-tracker
@@ -105,6 +107,7 @@ ether-metamask
 export-cookies-txt
 export-tabs-urls-and-titles
 facebook-container
+fakespot-fake-reviews-amazon
 fastforwardteam
 faststream
 fediact
@@ -125,6 +128,7 @@ frame-extension
 français-language-pack
 freedom-website-blocker
 furiganaize
+geminize
 gesturefy
 ghostery
 ghosttext
@@ -238,6 +242,7 @@ overbitewx
 overview
 pakkujs
 paperpile-addon
+passbolt
 passff
 pay-by-privacy
 peertubeify
@@ -261,6 +266,7 @@ privacy-redirect
 privacy-settings
 private-relay
 profile-switcher
+prometheus-formatter
 promnesia
 pronoundb
 proton-pass
@@ -367,9 +373,11 @@ ukrainian-dictionary
 umatrix
 undoclosetabbutton
 unpaywall
+untrap-for-youtube
 unwanted-twitch
 user-agent-string-switcher
 userchrome-toggle
+userchrome-toggle-extended
 video-downloadhelper
 videospeed
 view-image
