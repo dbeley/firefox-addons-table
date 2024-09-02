@@ -45,6 +45,7 @@ canvasblocker
 capital-one-eno
 capture-print
 castkodi
+catppuccin-gh-file-explorer
 censor-tracker
 chatgptbox
 clearcache
@@ -91,6 +92,7 @@ display-_anchors
 docsafterdark
 don-t-fuck-with-paste
 download-with-jdownloader
+downthemall
 dracula-dark-colorscheme
 dualsub
 duckduckgo-for-firefox
@@ -107,10 +109,12 @@ ether-metamask
 export-cookies-txt
 export-tabs-urls-and-titles
 facebook-container
+facebook-tracking-removal
 fakespot-fake-reviews-amazon
 fastforwardteam
 faststream
 fediact
+feedbroreader
 ff2mpv
 ficlab
 firefox-color
@@ -121,6 +125,7 @@ flagfox
 floccus
 forget_me_not
 form-history-control
+foxy-gestures
 foxyproxy-standard
 foxytab
 fraidycat
@@ -145,6 +150,7 @@ granted
 greasemonkey
 gruvbox-dark-theme
 gsconnect
+gàidhlig-language-pack
 görans-hemmasnickrade-ordli
 h264ify
 hackontext
@@ -163,6 +169,7 @@ iina-open-in-mpv
 image-search-options
 immersive-translate
 impulse-blocker
+incognito-normal
 indie-wiki-buddy
 inkah
 ipfs-companion
@@ -184,6 +191,7 @@ languagetool
 lastpass-password-manager
 leechblock-ng
 lesspass
+lexicon
 libredirect
 limit-limit-distracting-sites
 lingq-importer2
@@ -225,6 +233,7 @@ nos2x-fox
 noscript
 notifier-for-github
 notion-web-clipper
+nyaa-linker
 octolinker
 octotree
 offline-qr-code-generator
@@ -298,6 +307,7 @@ rsspreview
 rust-search-extension
 saka-key
 save-page-we
+scots-language-pack
 screenshot-capture-annotate
 scroll_anywhere
 search-engines-helper
@@ -328,6 +338,7 @@ styl-us
 stylebot-web
 substitoot
 surfingkeys_ff
+swift-selection-search
 switchyomega
 tab-counter-plus
 tab-reloader
@@ -379,6 +390,7 @@ user-agent-string-switcher
 userchrome-toggle
 userchrome-toggle-extended
 video-downloadhelper
+video-resumer
 videospeed
 view-image
 view-page-archive
@@ -406,10 +418,12 @@ yomitan
 youronlinechoices-plugin
 youtube-addon
 youtube-alternative-switch
+youtube-high-definition
 youtube-nonstop
 youtube-recommended-videos
 youtube-redux
 youtube-screenshot-button
 youtube-shorts-block
+zoom-image
 zoom-page-we
 zoom-redirector
