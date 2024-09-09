@@ -185,6 +185,7 @@ keepa
 keepass-helper-url-in-title
 keepassxc-browser
 keybase-for-firefox
+kiss-translator
 kristofferhagen-nord-theme
 laboratory-by-mozilla
 languagetool
@@ -284,6 +285,7 @@ protondb-for-steam
 protoots
 purpleadblock
 pushbullet
+pwas-for-firefox
 pywalfox
 qr-code-address-bar
 rabattcorner
@@ -324,6 +326,7 @@ simplelogin
 single-file
 skip-redirect
 smart-referer
+smartproxy
 snoozetabs
 solarized-light
 solarized_fox
@@ -357,6 +360,7 @@ textern
 theater-mode-for-youtube
 to-deepl
 to-google-translate
+toggl-button-time-tracker
 tokyo-night-v2
 tomato-clock
 toolkit-for-ynab
