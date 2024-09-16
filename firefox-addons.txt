@@ -314,6 +314,7 @@ screenshot-capture-annotate
 scroll_anywhere
 search-engines-helper
 search_by_image
+session-sync
 shaarli
 shinigami-eyes
 side-view
