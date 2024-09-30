@@ -391,6 +391,7 @@ undoclosetabbutton
 unpaywall
 untrap-for-youtube
 unwanted-twitch
+uppity
 user-agent-string-switcher
 userchrome-toggle
 userchrome-toggle-extended
