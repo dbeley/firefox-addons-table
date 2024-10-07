@@ -50,6 +50,7 @@ censor-tracker
 chatgptbox
 clearcache
 clearurls
+click-and-read
 cliget
 close-other-windows
 codecov
@@ -199,6 +200,7 @@ lingq-importer2
 link-cleaner
 link-gopher
 linkding-extension
+linkding-injector
 linkhints
 localcdn-fork-of-decentraleyes
 lovely-forks
@@ -208,6 +210,7 @@ markdownload
 matte-black-red
 maya-dark
 maya-light
+mergify
 modheader-firefox
 modrinthify
 momentumdash
@@ -314,6 +317,7 @@ screenshot-capture-annotate
 scroll_anywhere
 search-engines-helper
 search_by_image
+semantic-scholar
 session-sync
 shaarli
 shinigami-eyes
@@ -383,7 +387,6 @@ tst-search
 tubearchivist-companion
 ublacklist
 ublock-origin
-ublock-origin-lite
 ubo-scope
 ukrainian-dictionary
 umatrix
