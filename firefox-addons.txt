@@ -2,6 +2,7 @@
 1password-x-password-manager
 2fas-two-factor-authentication
 a11ycss
+absolute-enable-right-click
 adaptive-tab-bar-colour
 adblocker-ultimate
 add-custom-search-engine
@@ -156,9 +157,11 @@ görans-hemmasnickrade-ordli
 h264ify
 hackontext
 hacktools
+hcfy
 header-editor
 history-cleaner
 hls-stream-detector
+hoarder
 honey
 hoppscotch
 hover-zoom-plus
