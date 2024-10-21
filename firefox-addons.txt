@@ -30,6 +30,7 @@ belgium-eid
 betterttv
 beyond-20
 bibbot
+bionic-reader
 bitwarden-password-manager
 blocktube
 boring-rss
@@ -219,6 +220,7 @@ modrinthify
 momentumdash
 move-unloaded-tabs-for-tst
 movie-web-extension
+mtab
 multi-account-containers
 multiple-tab-handler
 musescore-downloader
@@ -376,6 +378,7 @@ torproject-snowflake
 torrent-control
 tournesol-extension
 traduzir-paginas-web
+tranquility-1
 transparent-standalone-image
 tree-style-tab
 tree-style-tab-mouse-wheel
@@ -412,6 +415,7 @@ vimium-ff
 violentmonkey
 vue-js-devtools
 w2g
+wakatimes
 wallabagger
 wappalyzer
 wayback-machine_new
