@@ -206,6 +206,7 @@ link-gopher
 linkding-extension
 linkding-injector
 linkhints
+linkwarden
 localcdn-fork-of-decentraleyes
 lovely-forks
 mailvelope
@@ -418,6 +419,7 @@ w2g
 wakatimes
 wallabagger
 wappalyzer
+watchmarker-for-youtube
 wayback-machine_new
 web-developer
 web-eid-webextension
