@@ -172,6 +172,7 @@ i-dont-care-about-cookies
 i2p-in-private-browsing
 iina-open-in-mpv
 image-search-options
+imagus
 immersive-translate
 impulse-blocker
 incognito-normal
@@ -302,6 +303,7 @@ raindropio
 re-enable-right-click
 react-devtools
 read-aloud
+readeck
 recoll-we
 reddit-enhancement-suite
 reddit-moderator-toolbox
