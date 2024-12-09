@@ -18,6 +18,7 @@ animalese-typing
 annotations-restored
 aria2-integration
 augmented-steam
+auto-referer
 auto-sort-bookmarks
 auto-tab-discard
 automatic-dark
@@ -30,6 +31,7 @@ belgium-eid
 betterttv
 beyond-20
 bibbot
+binnen-i-be-gone
 bionic-reader
 bitwarden-password-manager
 blocktube
@@ -190,6 +192,7 @@ kagi-search-for-firefox
 keepa
 keepass-helper-url-in-title
 keepassxc-browser
+keeper-password-manager
 keybase-for-firefox
 kiss-translator
 kristofferhagen-nord-theme
@@ -298,6 +301,7 @@ pushbullet
 pwas-for-firefox
 pywalfox
 qr-code-address-bar
+quality-of-rwth
 rabattcorner
 raindropio
 re-enable-right-click
@@ -434,6 +438,7 @@ wikipedia-vector-skin
 wikiwand-wikipedia-modernized
 windscribe
 xbs
+xdebug-helper-for-firefox
 yomitan
 youronlinechoices-plugin
 youtube-addon
