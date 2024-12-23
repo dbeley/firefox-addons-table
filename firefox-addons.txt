@@ -2,6 +2,7 @@
 1password-x-password-manager
 2fas-two-factor-authentication
 a11ycss
+about-sync
 absolute-enable-right-click
 adaptive-tab-bar-colour
 adblocker-ultimate
@@ -16,6 +17,7 @@ anchors-reveal
 angular-devtools
 animalese-typing
 annotations-restored
+archivebox-exporter
 aria2-integration
 augmented-steam
 auto-referer
