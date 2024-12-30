@@ -33,6 +33,7 @@ belgium-eid
 betterttv
 beyond-20
 bibbot
+bilisponsorblock
 binnen-i-be-gone
 bionic-reader
 bitwarden-password-manager
@@ -150,6 +151,7 @@ github-isometric-contributions
 gitpod
 gloc
 gnome-shell-integration
+gnu_terry_pratchett
 google-cal-event-merge
 gopass-bridge
 grammarly-1
@@ -342,6 +344,7 @@ simple-dark-vlasak
 simple-tab-groups
 simple-translate
 simplelogin
+simplifygmail
 single-file
 skip-redirect
 smart-referer
