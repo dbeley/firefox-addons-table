@@ -169,7 +169,6 @@ header-editor
 history-cleaner
 hls-stream-detector
 hoarder
-honey
 hoppscotch
 hover-zoom-plus
 hulu-ad-blocker-firefox
