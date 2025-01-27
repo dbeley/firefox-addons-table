@@ -26,6 +26,7 @@ auto-tab-discard
 automatic-dark
 aw-watcher-web
 awesome-rss
+aws-extend-switch-roles3
 batchcamp
 behave
 behind-the-overlay-revival
@@ -78,6 +79,7 @@ copy-link-text-webextension
 copy-selected-links
 copy-selected-tabs-to-clipboar
 copy-selection-as-markdown
+cultivate
 dark-background-light-text
 dark-mode-webextension
 dark-mode-website-switcher
@@ -153,6 +155,7 @@ gloc
 gnome-shell-integration
 gnu_terry_pratchett
 google-cal-event-merge
+google-container
 gopass-bridge
 grammarly-1
 granted
@@ -262,6 +265,7 @@ omori-headspace-by-lemon
 one-click-wayback
 onetab
 open-in-browser
+open-in-freedium
 open-url-in-container
 org-capture
 overbitewx
@@ -402,6 +406,7 @@ tst-lock-tree-collapsed
 tst-more-tree-commands
 tst-search
 tubearchivist-companion
+twitch-auto-points
 ublacklist
 ublock-origin
 ubo-scope
@@ -436,6 +441,7 @@ web-eid-webextension
 web-scrobbler
 web-search-navigator
 webhint
+webxr-api-emulator
 whowrotethat
 widegithub
 wikipedia-vector-skin
@@ -447,6 +453,7 @@ yomitan
 youronlinechoices-plugin
 youtube-addon
 youtube-alternative-switch
+youtube-cards
 youtube-high-definition
 youtube-nonstop
 youtube-recommended-videos
