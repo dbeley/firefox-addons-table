@@ -19,6 +19,8 @@ animalese-typing
 annotations-restored
 archivebox-exporter
 aria2-integration
+ask-historians-comment-helper
+audiocontext-suspender
 augmented-steam
 auto-referer
 auto-sort-bookmarks
@@ -27,6 +29,7 @@ automatic-dark
 aw-watcher-web
 awesome-rss
 aws-extend-switch-roles3
+bandcamp-player-volume-control
 batchcamp
 behave
 behind-the-overlay-revival
@@ -39,12 +42,12 @@ binnen-i-be-gone
 bionic-reader
 bitwarden-password-manager
 blocktube
+bookmark-search-plus-2
 boring-rss
 brandon1024-find
 british-english-dictionary-2
 brotab
 browserpass-ce
-bukubrow
 bulgarian-dictionary
 bulkurlopener
 buster-captcha-solver
@@ -66,6 +69,7 @@ commafeed
 competitive-companion
 conex
 consent-o-matic
+container-colors
 container-proxy
 container-tab-groups
 container-tabs-sidebar
@@ -80,6 +84,9 @@ copy-selected-links
 copy-selected-tabs-to-clipboar
 copy-selection-as-markdown
 cultivate
+custom-new-tab-page
+dansk-da-language-pack
+dansk-ordbog
 dark-background-light-text
 dark-mode-webextension
 dark-mode-website-switcher
@@ -114,10 +121,12 @@ edit-with-emacs1
 elasticvue
 enhanced-github
 enhanced-h264ify
+enhancer-for-nebula
 enhancer-for-youtube
 ether-metamask
 export-cookies-txt
 export-tabs-urls-and-titles
+external-application
 facebook-container
 facebook-tracking-removal
 fakespot-fake-reviews-amazon
@@ -140,6 +149,7 @@ foxyproxy-standard
 foxytab
 fraidycat
 frame-extension
+frankerfacez
 français-language-pack
 freedom-website-blocker
 furiganaize
@@ -186,6 +196,7 @@ impulse-blocker
 incognito-normal
 indie-wiki-buddy
 inkah
+instapaper-official
 ipfs-companion
 ipvfoo
 istilldontcareaboutcookies
@@ -194,6 +205,7 @@ javascript-restrictor
 joplin-web-clipper
 js-search-extension
 jump-cutter
+kagi-privacy-pass
 kagi-search-for-firefox
 keepa
 keepass-helper-url-in-title
@@ -226,6 +238,7 @@ matte-black-red
 maya-dark
 maya-light
 mergify
+metager-suche
 modheader-firefox
 modrinthify
 momentumdash
@@ -234,6 +247,7 @@ movie-web-extension
 mtab
 multi-account-containers
 multiple-tab-handler
+multiselect-for-youtube
 musescore-downloader
 native-mathml
 new-tab-override
@@ -266,6 +280,7 @@ one-click-wayback
 onetab
 open-in-browser
 open-in-freedium
+open-in-vlc
 open-url-in-container
 org-capture
 overbitewx
@@ -309,6 +324,8 @@ pwas-for-firefox
 pywalfox
 qr-code-address-bar
 quality-of-rwth
+qwant-the-search-engine
+qwantcom-for-firefox
 rabattcorner
 raindropio
 re-enable-right-click
@@ -357,6 +374,7 @@ solarized-light
 solarized_fox
 sourcegraph-for-firefox
 sponsorblock
+spoof-timezone
 startpage-private-search
 startup-bookmarks
 statshunters
@@ -376,6 +394,7 @@ tab-stash
 tab-unload-for-tree-style-tab
 tabcenter-reborn
 tabliss
+tabwrangler
 tampermonkey
 temporary-containers
 terms-of-service-didnt-read
@@ -406,6 +425,8 @@ tst-lock-tree-collapsed
 tst-more-tree-commands
 tst-search
 tubearchivist-companion
+tunnelbear-vpn-firefox
+tweaks-for-youtube
 twitch-auto-points
 ublacklist
 ublock-origin
@@ -420,6 +441,7 @@ uppity
 user-agent-string-switcher
 userchrome-toggle
 userchrome-toggle-extended
+varia-integrator
 video-downloadhelper
 video-resumer
 videospeed
@@ -435,6 +457,7 @@ wakatimes
 wallabagger
 wappalyzer
 watchmarker-for-youtube
+wave-accessibility-tool
 wayback-machine_new
 web-developer
 web-eid-webextension
@@ -449,12 +472,15 @@ wikiwand-wikipedia-modernized
 windscribe
 xbs
 xdebug-helper-for-firefox
+xkit-rewritten
+yang-addon
 yomitan
 youronlinechoices-plugin
 youtube-addon
 youtube-alternative-switch
 youtube-cards
 youtube-high-definition
+youtube-no-translation
 youtube-nonstop
 youtube-recommended-videos
 youtube-redux
