@@ -257,6 +257,7 @@ new_tongwentang
 news-feed-eradicator
 newtab-adapter
 ng-inspect
+nicothin-space
 nighttab
 ninja-cookie
 nitter-redirect
@@ -486,6 +487,7 @@ youtube-recommended-videos
 youtube-redux
 youtube-screenshot-button
 youtube-shorts-block
+zeroomega
 zoom-image
 zoom-page-we
 zoom-redirector
