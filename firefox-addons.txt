@@ -34,6 +34,7 @@ batchcamp
 behave
 behind-the-overlay-revival
 belgium-eid
+better-canvas
 betterttv
 beyond-20
 bibbot
@@ -234,6 +235,7 @@ lovely-forks
 mailvelope
 mal-sync
 markdownload
+material-icons-for-github
 matte-black-red
 maya-dark
 maya-light
