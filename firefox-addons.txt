@@ -57,7 +57,7 @@ canvasblocker
 capital-one-eno
 capture-print
 castkodi
-catppuccin-gh-file-explorer
+catppuccin-web-file-icons
 censor-tracker
 chatgptbox
 clearcache
@@ -206,6 +206,7 @@ javascript-restrictor
 joplin-web-clipper
 js-search-extension
 jump-cutter
+justdeleteme
 kagi-privacy-pass
 kagi-search-for-firefox
 keepa
@@ -375,6 +376,7 @@ smartproxy
 snoozetabs
 solarized-light
 solarized_fox
+sonarr-radarr-lidarr-search
 sourcegraph-for-firefox
 sponsorblock
 spoof-timezone
