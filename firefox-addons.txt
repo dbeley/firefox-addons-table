@@ -1,3 +1,4 @@
+better-darker-docs
 10ten-ja-reader
 1password-x-password-manager
 2fas-two-factor-authentication
