@@ -1,4 +1,3 @@
-better-darker-docs
 10ten-ja-reader
 1password-x-password-manager
 2fas-two-factor-authentication
@@ -36,6 +35,7 @@ behave
 behind-the-overlay-revival
 belgium-eid
 better-canvas
+better-darker-docs
 betterttv
 beyond-20
 bibbot
@@ -350,6 +350,7 @@ return-youtube-dislikes
 rsf-censorship-detector
 rsshub-radar
 rsspreview
+ruffle_rs
 rust-search-extension
 saka-key
 save-page-we
@@ -465,6 +466,7 @@ wappalyzer
 watchmarker-for-youtube
 wave-accessibility-tool
 wayback-machine_new
+web-clipper-obsidian
 web-developer
 web-eid-webextension
 web-scrobbler
