@@ -363,6 +363,7 @@ semantic-scholar
 session-sync
 shaarli
 shinigami-eyes
+shiori_ext
 side-view
 sidebartabs
 sidebery
@@ -408,6 +409,7 @@ terms-of-service-didnt-read
 tetrio-plus
 text-contrast-for-dark-themes
 textern
+the-camelizer-price-history-ch
 theater-mode-for-youtube
 to-deepl
 to-google-translate
