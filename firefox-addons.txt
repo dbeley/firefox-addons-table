@@ -85,6 +85,7 @@ copy-link-text-webextension
 copy-selected-links
 copy-selected-tabs-to-clipboar
 copy-selection-as-markdown
+ctrl-number-to-switch-tabs
 cultivate
 custom-new-tab-page
 dansk-da-language-pack
