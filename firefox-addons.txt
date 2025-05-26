@@ -58,6 +58,7 @@ canvasblocker
 capital-one-eno
 capture-print
 castkodi
+catppuccin-mocha-mauve-git
 catppuccin-web-file-icons
 censor-tracker
 chatgptbox
