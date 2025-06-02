@@ -16,6 +16,7 @@ amp2html
 anchors-reveal
 angular-devtools
 animalese-typing
+anki-jpdb-reader
 annotations-restored
 archivebox-exporter
 aria2-integration
@@ -184,6 +185,7 @@ hacktools
 hcfy
 header-editor
 history-cleaner
+historyblock
 hls-stream-detector
 hoarder
 hoppscotch
