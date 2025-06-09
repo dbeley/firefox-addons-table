@@ -214,6 +214,7 @@ jump-cutter
 justdeleteme
 kagi-privacy-pass
 kagi-search-for-firefox
+karakeep
 keepa
 keepass-helper-url-in-title
 keepassxc-browser
