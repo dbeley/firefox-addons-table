@@ -158,6 +158,7 @@ frankerfacez
 français-language-pack
 freedom-website-blocker
 furiganaize
+gemini-in-sidebar
 geminize
 gesturefy
 ghostery
@@ -228,6 +229,7 @@ lastpass-password-manager
 leechblock-ng
 lesspass
 lexicon
+libkey-nomad
 libredirect
 limit-limit-distracting-sites
 lingq-importer2
@@ -259,6 +261,7 @@ multiple-tab-handler
 multiselect-for-youtube
 musescore-downloader
 native-mathml
+nekocap
 new-tab-override
 new-window-without-toolbar
 new-zealand-english-dict
@@ -319,6 +322,7 @@ privacy-pass
 privacy-possum
 privacy-redirect
 privacy-settings
+private-grammar-checker-harper
 private-relay
 profile-switcher
 prometheus-formatter
@@ -342,6 +346,7 @@ re-enable-right-click
 react-devtools
 read-aloud
 readeck
+recap-195534
 recoll-we
 reddit-enhancement-suite
 reddit-moderator-toolbox
@@ -358,6 +363,7 @@ rsspreview
 ruffle_rs
 rust-search-extension
 saka-key
+save-all-images-webextension
 save-page-we
 scots-language-pack
 screenshot-capture-annotate
@@ -442,6 +448,7 @@ tubearchivist-companion
 tunnelbear-vpn-firefox
 tweaks-for-youtube
 twitch-auto-points
+twiter-x-video-downloader
 ublacklist
 ublock-origin
 ubo-scope
@@ -489,6 +496,7 @@ xbs
 xdebug-helper-for-firefox
 xkit-rewritten
 yang-addon
+yank
 yomitan
 youronlinechoices-plugin
 youtube-addon
@@ -502,6 +510,8 @@ youtube-redux
 youtube-screenshot-button
 youtube-shorts-block
 zeroomega
+zhihu-undirect
 zoom-image
 zoom-page-we
 zoom-redirector
+非官方-沙拉查词-聚合词典划词翻译
