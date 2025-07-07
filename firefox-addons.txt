@@ -273,6 +273,7 @@ nicothin-space
 nighttab
 ninja-cookie
 nitter-redirect
+nixpkgs-pr-tracker
 no-pdf-download
 nord-polar-night-theme
 nord123
