@@ -45,6 +45,7 @@ binnen-i-be-gone
 bionic-reader
 bitwarden-password-manager
 blocktube
+bonjourr-startpage
 bookmark-search-plus-2
 boring-rss
 brandon1024-find
@@ -63,6 +64,7 @@ catppuccin-mocha-mauve-git
 catppuccin-web-file-icons
 censor-tracker
 chatgptbox
+chrome-mask
 clearcache
 clearurls
 click-and-read
@@ -166,6 +168,7 @@ ghosttext
 gitako-github-file-tree
 github-file-icons
 github-isometric-contributions
+github-issue-link-status
 gitpod
 gloc
 gnome-shell-integration
