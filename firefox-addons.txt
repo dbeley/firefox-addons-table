@@ -195,6 +195,7 @@ hoarder
 hoppscotch
 hover-zoom-plus
 hulu-ad-blocker-firefox
+hyperchat
 i-auto-fullscreen
 i-dont-care-about-cookies
 i2p-in-private-browsing
@@ -242,6 +243,7 @@ linkding-extension
 linkding-injector
 linkhints
 linkwarden
+livetl
 localcdn-fork-of-decentraleyes
 lovely-forks
 mailvelope
@@ -355,6 +357,7 @@ recoll-we
 reddit-enhancement-suite
 reddit-moderator-toolbox
 reddit_comment_collapser
+redirect-to-wiki-gg
 redirector
 reduxdevtools
 refined-github-
@@ -513,6 +516,7 @@ youtube-recommended-videos
 youtube-redux
 youtube-screenshot-button
 youtube-shorts-block
+ytcfilter
 zeroomega
 zhihu-undirect
 zoom-image
