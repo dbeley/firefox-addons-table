@@ -2,3 +2,5 @@
 .direnv/
 __pycache__/
 *.csv
+.venv/
+.pytest_cache/

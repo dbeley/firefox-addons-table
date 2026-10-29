@@ -2,7 +2,7 @@
 # See https://pre-commit.com/hooks.html for more hooks
 repos:
 - repo: https://github.com/pre-commit/pre-commit-hooks
-  rev: v4.4.0
+  rev: v5.0.0
   hooks:
     - id: trailing-whitespace
     - id: end-of-file-fixer
@@ -13,7 +13,9 @@ repos:
   hooks:
     - id: black
       language_version: python3.10
+# flake8 6 / pycodestyle 2.10 reports false E231 on f-string format specifiers
+# (f"{size:.2f}"); 7.x understands them.
 - repo: https://github.com/pycqa/flake8
-  rev: 6.0.0
+  rev: 7.3.0
   hooks:
     - id: flake8

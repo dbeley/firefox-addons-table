@@ -2,18 +2,22 @@ with import <nixpkgs> { };
 
 pkgs.mkShell {
   buildInputs = [
-    pkgs.python311
-    python311Packages.pip
+    (pkgs.python312.withPackages (ps:
+      with ps; [
+        requests
+        pandas
+        pygithub
+        python-gitlab
+        beautifulsoup4
+        lxml
+        urllib3
+        pytest
+      ]))
 
-    python311Packages.requests
-    python311Packages.pandas
-    python311Packages.beautifulsoup4
-    python311Packages.lxml
-    python311Packages.pygithub
-    python311Packages.python-gitlab
-    python311Packages.urllib3
+    # Used by update-addons-list.sh.
+    pkgs.curl
+    pkgs.jq
 
-    pre-commit
+    pkgs.pre-commit
   ];
-
 }

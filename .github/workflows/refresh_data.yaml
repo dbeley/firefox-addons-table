@@ -1,38 +1,44 @@
 name: refresh-data
+
 on:
   workflow_dispatch: # allows manual triggering
   schedule:
     - cron: '48 2 * * 1' # runs every Monday at 2:48
 
+# The job commits the generated data back to the repository.
+permissions:
+  contents: write
+
+# Never let two refreshes race on the same files.
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
         with:
-          submodules: recursive
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.11'
-      - name: Install curl
-        run: sudo apt-get install -y curl
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: requirements.txt
       - name: Update addons list
         run: ./update-addons-list.sh
-      - name: Initialize python env
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests pandas pygithub python-gitlab beautifulsoup4 lxml urllib3
+      - name: Install dependencies
+        run: pip install -r requirements.txt
       - name: Create new export
-        run: |
-          python table_export.py
+        run: python table_export.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
       - name: Create new template
-        run: |
-          python html_builder.py
-      - name: Pull Remote Changes
-        run: git pull
-      - uses: stefanzweifel/git-auto-commit-action@v4
+        run: python html_builder.py
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Apply automatic changes
