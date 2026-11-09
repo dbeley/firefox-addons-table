@@ -1,6 +1,7 @@
 10ten-ja-reader
 1password-x-password-manager
 2fas-two-factor-authentication
+7tv-new
 a11ycss
 about-sync
 absolute-enable-right-click
@@ -370,6 +371,7 @@ open-in-browser
 open-in-freedium
 open-in-vlc
 open-url-in-container
+ophirofox
 org-capture
 overbitewx
 overview
@@ -417,10 +419,12 @@ pystol
 pywalfox
 qr-code-address-bar
 quality-of-rwth
+qui
 qwant-the-search-engine
 qwantcom-for-firefox
 rabattcorner
 raindropio
+rather-s-link-shortener
 re-enable-right-click
 react-devtools
 read-aloud
