@@ -8,6 +8,7 @@ absolute-enable-right-click
 adaptive-tab-bar-colour
 adblocker-ultimate
 add-custom-search-engine
+add-to-kinopio
 addy_io
 adnauseam
 adsum-notabs
@@ -60,6 +61,7 @@ bonjourr-startpage
 bookmark-search-plus-2
 bookmarkhub
 boring-rss
+bramble
 brandon1024-find
 british-english-dictionary-2
 brotab
@@ -493,6 +495,7 @@ startpage-private-search
 startup-bookmarks
 statshunters
 steam-database
+sticky-window-containers
 streetpass-for-mastodon
 styl-us
 stylebot-web
@@ -550,6 +553,7 @@ tst-indent-line
 tst-lock-tree-collapsed
 tst-more-tree-commands
 tst-search
+ttv-lol-pro
 tubearchivist-companion
 tunnelbear-vpn-firefox
 tweaks-for-youtube
@@ -601,6 +605,7 @@ widegithub
 wikipedia-first
 wikipedia-vector-skin
 wikiwand-wikipedia-modernized
+window-titler
 windscribe
 woordenboek-nederlands
 xbs
