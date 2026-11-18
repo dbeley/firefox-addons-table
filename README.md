@@ -37,3 +37,7 @@ broke the export in July 2025.
 - Other Gitlab instances: number of stars
 - Codeberg: number of stars, last repo update
 - SourceHunt: last repo update
+
+## License
+
+[MIT](LICENSE)
