@@ -70,6 +70,7 @@ bulgarian-dictionary
 bulkurlopener
 buster-captcha-solver
 c-c-search-extension
+caelestiafox
 canvasblocker
 capital-one-eno
 capture-print
